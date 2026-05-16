@@ -309,4 +309,4 @@ def update_filtered_survival(class_filter, gender_filter, age_filter):
     return fig
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run(debug=True)
