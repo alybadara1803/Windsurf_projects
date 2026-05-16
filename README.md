@@ -5,5 +5,6 @@ In this repo I've some of my projects done with Windsurf
 Pacman_turtle
 
 ---
+# Prompt : " create interactive visualisation to do EDA on Titanic Dataset "
 ![alt text](image.png)
 ![alt text](image-1.png)
