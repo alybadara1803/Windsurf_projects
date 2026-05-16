@@ -8,6 +8,9 @@ I made my venv so that I can know which libraries were used for my projects 'pyt
 Pour les deux derniers projets, j'ai fait ceci, c'est comme un system prompt 
 <img width="860" height="472" alt="image" src="https://github.com/user-attachments/assets/910a62d8-d0f9-4715-becc-d78d9f5591c8" />
 
+<img width="665" height="362" alt="image" src="https://github.com/user-attachments/assets/6d2de342-a27c-4bea-8572-6f1dc1e0a724" />
+
+
 
 ---
 <img width="1128" height="752" alt="image" src="https://github.com/user-attachments/assets/12b1cf34-bc64-4912-8de1-4726bf402f77" />
