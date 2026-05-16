@@ -10,4 +10,5 @@ Pacman_turtle
 ![alt text](image-1.png)
 
 ---
+# Prompt : " Create an interactive visualisation to explain the effect of learning rate on gradient descent convergence in a U shaped curved. "
 ![alt text](image-2.png)
