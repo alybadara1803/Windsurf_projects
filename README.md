@@ -8,9 +8,6 @@ Pacman_turtle
 # Prompt : " create interactive visualisation to do EDA on Titanic Dataset "
 ![alt text](image.png)
 ![alt text](image-1.png)
-<<<<<<< HEAD
 
 ---
 ![alt text](image-2.png)
-=======
->>>>>>> f320962a9ce31dec70e6f26f7bd3f5666de4f216
